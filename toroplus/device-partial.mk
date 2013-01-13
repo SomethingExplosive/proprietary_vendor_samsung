@@ -24,4 +24,21 @@ PRODUCT_PACKAGES := \
     libsyncml_port \
     lib_gsd4t \
     libsec-ril_lte \
-    com.samsung.device
+    com.samsung.device \
+	ducati-m3 \
+    gps.omap4 \
+    sirfgps \
+    fw_bcmdhd \
+    fw_bcmdhd_apsta \
+    fw_bcmdhd_p2p \
+    libaah_rtp \
+    libfrsdk \
+    libgcomm_jni \
+    libspeexwrapper \
+    libwvm \
+    libWVStreamControlAPI_L1 \
+    mms144_ts_rev31 \
+    mms144_ts_rev32 \
+    smc_normal_world_android_cfg \
+    libaah_rtp \
+    smc_pa_wvdrm
