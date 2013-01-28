@@ -1,4 +1,4 @@
-# Copyright (C) 2010 The Android Open Source Project
+# Copyright (C) 2013 The SomethingJelly Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ PRODUCT_PACKAGES := \
     lib_gsd4t \
     libsec-ril_lte \
     com.samsung.device \
-	ducati-m3 \
+    ducati-m3 \
     gps.omap4 \
     sirfgps \
     fw_bcmdhd \
