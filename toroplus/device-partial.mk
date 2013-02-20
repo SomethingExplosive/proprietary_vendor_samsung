@@ -1,4 +1,4 @@
-# Copyright (C) 2013 The SomethingJelly Project
+# Copyright (C) 2010 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,30 +15,29 @@
 # Samsung blob(s) necessary for ToroPlus hardware
 PRODUCT_PACKAGES := \
     BIP \
+    HiddenMenu \
     SDM \
     SecPhone \
     SyncMLSvc \
     fRom \
+    ducati-m3 \
     libsecril-client \
     libsyncml_core \
     libsyncml_port \
     lib_gsd4t \
     libsec-ril_lte \
-    com.samsung.device \
-    ducati-m3 \
-    gps.omap4 \
     sirfgps \
+    gps.omap4 \
+    libdrmwvmplugin \
+    libwvm \
     fw_bcmdhd \
     fw_bcmdhd_apsta \
     fw_bcmdhd_p2p \
-    libaah_rtp \
     libfrsdk \
     libgcomm_jni \
     libspeexwrapper \
-    libwvm \
-    libWVStreamControlAPI_L1 \
     mms144_ts_rev31 \
     mms144_ts_rev32 \
     smc_normal_world_android_cfg \
-    libaah_rtp \
-    smc_pa_wvdrm
+    smc_pa_wvdrm \
+    wmdsi
