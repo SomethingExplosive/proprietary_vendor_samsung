@@ -20,14 +20,11 @@ PRODUCT_PACKAGES := \
     SecPhone \
     SyncMLSvc \
     fRom \
-    ducati-m3 \
     libsecril-client \
     libsyncml_core \
     libsyncml_port \
     lib_gsd4t \
     libsec-ril_lte \
-    sirfgps \
-    gps.omap4 \
     libdrmwvmplugin \
     libwvm \
     fw_bcmdhd \
