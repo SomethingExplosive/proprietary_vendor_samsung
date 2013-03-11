@@ -26,10 +26,13 @@ PRODUCT_PACKAGES := \
     com.vzw.hardware.ehrpd.xml \
     com.vzw.hardware.lte.xml \
     com.vzw.vzwapnlib.xml \
+    ducati-m3 \
+    gps.omap4 \
     libdrmwvmplugin \
     libwvdrm_L1 \
     libwvm \
     libWVStreamControlAPI_L1 \
+    sirfgps \
     VZWAPNLib \
     VZWAPNService
 
